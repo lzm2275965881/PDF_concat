@@ -1,4 +1,5 @@
 A simple tool to concatenate PDF
+
 Just double click the .exe file in Windows
 
 ![Alt text](image.png)
